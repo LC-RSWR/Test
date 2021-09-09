@@ -1,0 +1,53 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+
+# Executables
+*.exe
+*.out
+*.app
+*.opensdf
+*.sdf
+*.db
+*.filters
+*.exp
+
+# debug and release ,etc
+Debug/
+Release/
+GeneratedFiles/
+
+#Qt gui, etc
+ui_*.h
+moc_*.cpp
+
+src/.vscode/
+src/jver1.off
+src/markedxiahe.off
+*.user
+*.ilk
+*.pdb
+*.dll
+*.suo
+src/meshlab_full.VC.VC.opendb
+src/external/.vs/
+src/.vs/
+src/distrib/plugins/
+*.sln
+*.vcxproj
+src/distrib/
+src/fusionalign/logs/
+src/.qmake.stash
